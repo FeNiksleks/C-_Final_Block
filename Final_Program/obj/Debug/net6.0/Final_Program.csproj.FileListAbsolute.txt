@@ -1,0 +1,15 @@
+D:\GB\C#\C#_Final_Block\Final_Program\bin\Debug\net6.0\Final_Program.exe
+D:\GB\C#\C#_Final_Block\Final_Program\bin\Debug\net6.0\Final_Program.deps.json
+D:\GB\C#\C#_Final_Block\Final_Program\bin\Debug\net6.0\Final_Program.runtimeconfig.json
+D:\GB\C#\C#_Final_Block\Final_Program\bin\Debug\net6.0\Final_Program.dll
+D:\GB\C#\C#_Final_Block\Final_Program\bin\Debug\net6.0\Final_Program.pdb
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.csproj.AssemblyReference.cache
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.AssemblyInfoInputs.cache
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.AssemblyInfo.cs
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.csproj.CoreCompileInputs.cache
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.dll
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\refint\Final_Program.dll
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.pdb
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\Final_Program.genruntimeconfig.cache
+D:\GB\C#\C#_Final_Block\Final_Program\obj\Debug\net6.0\ref\Final_Program.dll
