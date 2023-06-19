@@ -2,12 +2,10 @@
 // Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-string[] array = AskArray();
-string[] result = FindLessThan(array, 3);
-Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
 
-string[] FindLessThan(string[] input, int n) {
-    string[] output = new string[CountLessThan(input, n)];
+
+string[] ArrayFindLessThan(string[] input, int n) {
+    string[] output = new string[ArrayCountLessThan(input, n)];
 
     for(int i = 0, j = 0; i < input.Length; i++) {
         if(input[i].Length <= n) {
@@ -19,7 +17,7 @@ string[] FindLessThan(string[] input, int n) {
     return output;
 }
 
-int CountLessThan(string[] input, int n) {
+int ArrayCountLessThan(string[] input, int n) {
     int count = 0;
 
     for(int i = 0; i < input.Length; i++) {
@@ -31,7 +29,12 @@ int CountLessThan(string[] input, int n) {
     return count;
 }
 
-string[] AskArray() {
+string[] AskArray() 
+{
     Console.Write("Введите значения через пробел: ");
     return Console.ReadLine().Split(" ");
 }
+
+string[] array = AskArray();
+string[] result = ArrayFindLessThan(array, 3);
+Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
